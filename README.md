@@ -8,4 +8,4 @@ Through exploratory data analysis, I've uncovered some seriously cool stuff abou
 
 With Paris 2024 just around the corner, the anticipation is palpable. It's a chance for athletes to make their mark, for nations to unite in friendly competition, and for fans around the world to come together and celebrate the spirit of sportsmanship. With the data as our guide, we might just uncover some fascinating insights that pave the way for an unforgettable Olympic journey.
 
-![Sample Image](https://www.usnews.com/object/image/0000018d-469b-d90e-a9dd-6f9f0db40000/5a38eca1ca8d458f9ba5e1d48e797dbcParis-Medal_Table_Forecast_42407.jpg?update-time=1706252639000&size=responsive640)
+![longest_trip](Olympic Paris 2024.png)
