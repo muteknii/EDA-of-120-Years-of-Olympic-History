@@ -7,5 +7,3 @@ Ever wondered what 120 years of Olympic history looks like in data form? From th
 Through exploratory data analysis, I've uncovered some seriously cool stuff about which countries rule the roost, which athletes are the GOATs, and some mind-blowing trends that'll make you rethink everything you thought you knew about the Olympics.
 
 With Paris 2024 just around the corner, the anticipation is palpable. It's a chance for athletes to make their mark, for nations to unite in friendly competition, and for fans around the world to come together and celebrate the spirit of sportsmanship. With the data as our guide, we might just uncover some fascinating insights that pave the way for an unforgettable Olympic journey.
-
-![longest_trip](Olympic Paris 2024.png)
